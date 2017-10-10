@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\bin\Debug\GasStation.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\bin\Debug\GasStation.exe
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\bin\Debug\GasStation.pdb
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\obj\Debug\GasStation.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\obj\Debug\GasStation.GasStationForm.resources
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\obj\Debug\GasStation.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\obj\Debug\GasStation.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\obj\Debug\GasStation.exe
+c:\users\hp\documents\visual studio 2017\Projects\GasStation\GasStation\obj\Debug\GasStation.pdb
